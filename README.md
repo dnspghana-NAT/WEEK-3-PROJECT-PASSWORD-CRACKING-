@@ -19,6 +19,11 @@ exercise helps you learn how password cracking works and why it is important to 
 Crack the password of attached PDF file (My Locked PDF1.pdf) using JTR JOHN and JTR JOHNNY tools on your Windows PC.
 ### Strategy Methods and Procedures
 **step1**.  Downloaded John the Ripper from official website on your windows PC using this link: https://www.openwall.com/john/
+
 I downloaded JTR from the site shown below:
+
+![](https://github.com/dnspghana-NAT/WEEK-3-PROJECT-PASSWORD-CRACKING-/blob/dded7935ece397c27b63c6880a31fea9815a1bbf/JTR%20DOWNLOAD%20SCREENSHOT.PNG)
+**step2**. Download Johnny GUI from official website: https://openwall.info/wiki/john/johnny
+I downloaded Johny GUI from official website as depicted in the screenshot below:
 
 ![]()

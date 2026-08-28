@@ -41,5 +41,6 @@ I browsed and uploaded the pdf locked file into the online hash calculate to gen
 ![](https://github.com/dnspghana-NAT/WEEK-3-PROJECT-PASSWORD-CRACKING-/blob/d06944562b94a34fa4be6e11b13995d6de4b444d/CAPTURE%20HASH%20FILE.PNG)
 The hash value was then copy and save as text and imported into the Johny, the input result was shown below:
 ![](https://github.com/dnspghana-NAT/WEEK-3-PROJECT-PASSWORD-CRACKING-/blob/0f2467f5cf4a92e894efba2f8a55713846029b2d/password%20cracked.PNG)
+
 **step4**. Open the pdf file with the cracked password. I opened the locked pdf file as shown below and entered the password
 ![]()

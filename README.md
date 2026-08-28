@@ -61,4 +61,4 @@ I Copied the complete hash starting from $pdf$ and imported into Open the Networ
 ![](https://github.com/dnspghana-NAT/WEEK-3-PROJECT-PASSWORD-CRACKING-/blob/3cc24a8ffa3d5211fab1305646ce3a89e8c302a5/NW%20PASSWORD%20CRACKER%20HASH%20VALUE.PNG)
 ![](https://github.com/dnspghana-NAT/WEEK-3-PROJECT-PASSWORD-CRACKING-/blob/ff772511307f91b1361b3a6a4ecd4023b7300370/NW%20TOOL%20PASSWORD%20CRACKED.PNG)
 ![](https://github.com/dnspghana-NAT/WEEK-3-PROJECT-PASSWORD-CRACKING-/blob/09fdb044c6f288d886aced8cdf6b4a20bdcb4f9e/PDF%20FILE%202.PNG)
-![]()
+![](https://github.com/dnspghana-NAT/WEEK-3-PROJECT-PASSWORD-CRACKING-/blob/b87c60dd510caa278faa24af45e01d87ce115c8b/pdf%20file%20opened%20with%20nw%20tools.PNG)

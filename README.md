@@ -59,3 +59,4 @@ value that starts with $p
 **STEP4**. Copy the full hash value.
 I Copied the complete hash starting from $pdf$ and imported into Open the Networkwalks Password Cracker in the web browser: https://networkwalks.com/password-cracker/ and the result below was displayed:
 ![](https://github.com/dnspghana-NAT/WEEK-3-PROJECT-PASSWORD-CRACKING-/blob/3cc24a8ffa3d5211fab1305646ce3a89e8c302a5/NW%20PASSWORD%20CRACKER%20HASH%20VALUE.PNG)
+![]()

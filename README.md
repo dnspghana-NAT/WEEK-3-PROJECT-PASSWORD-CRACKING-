@@ -20,8 +20,8 @@ Crack the password of attached PDF file (My Locked PDF1.pdf) using JTR JOHN and 
 ### Strategy Methods and Procedures
 **step1**.  Downloaded John the Ripper from official website on your windows PC using this link: https://www.openwall.com/john/.
 I downloaded JTR from the site shown below:
-
-![](https://github.com/dnspghana-NAT/WEEK-3-PROJECT-PASSWORD-CRACKING-/blob/dded7935ece397c27b63c6880a31fea9815a1bbf/JTR%20DOWNLOAD%20SCREENSHOT.PNG)
+![](https://github.com/dnspghana-NAT/WEEK-3-PROJECT-PASSWORD-
+CRACKING-/blob/dded7935ece397c27b63c6880a31fea9815a1bbf/JTR%20DOWNLOAD%20SCREENSHOT.PNG)
 **step2**. Download Johnny GUI from official website: https://openwall.info/wiki/john/johnny.
 I downloaded Johny GUI from official website as depicted in the screenshot below:
 
@@ -31,3 +31,4 @@ I downloaded Johny GUI from official website as depicted in the screenshot below
 ![](https://github.com/dnspghana-NAT/WEEK-3-PROJECT-PASSWORD-CRACKING-/blob/3759799e13cd927505c971b560655fe406b2f5ca/JOHNY%20SETUP%20FILE.PNG)
 **stp2.2**. Open Johny. After the installation I opened Johny from my windows desktop as shown below
 ![](https://github.com/dnspghana-NAT/WEEK-3-PROJECT-PASSWORD-CRACKING-/blob/317b775afd1f59bc0a59b82c462eb6eac4aa2762/JOHNY%20ICON%20OPENED.PNG)
+**step2.3**. Click on setting and browse to select and specify the location of Johny.exe. I after the installation I opened Johny to configure the setting of the location of johny.exe file shown below:

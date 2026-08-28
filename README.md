@@ -43,4 +43,4 @@ The hash value was then copy and save as text and imported into the Johny, the i
 ![](https://github.com/dnspghana-NAT/WEEK-3-PROJECT-PASSWORD-CRACKING-/blob/0f2467f5cf4a92e894efba2f8a55713846029b2d/password%20cracked.PNG)
 
 **step4**. Open the pdf file with the cracked password. I opened the locked pdf file as shown below and entered the password
-![]()
+![](https://github.com/dnspghana-NAT/WEEK-3-PROJECT-PASSWORD-CRACKING-/blob/8307fcd7434c390cfb19004447174b1d870344ff/pdf%20locked%20file.PNG)

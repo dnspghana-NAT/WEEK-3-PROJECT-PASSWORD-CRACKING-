@@ -28,4 +28,6 @@ I downloaded Johny GUI from official website as depicted in the screenshot below
 ![](https://github.com/dnspghana-NAT/WEEK-3-PROJECT-PASSWORD-CRACKING-/blob/4cea4a4ee227dfedb517946c431f1e0fa0c5bb7f/JOHNY%20GUI%20SCREENSHOT.PNG)
 **step2.1**. I Run the setup file & install Johnny as shown below:
 
+![](https://github.com/dnspghana-NAT/WEEK-3-PROJECT-PASSWORD-CRACKING-/blob/3759799e13cd927505c971b560655fe406b2f5ca/JOHNY%20SETUP%20FILE.PNG)
+**stp2.2**. Open Johny. After the installation I opened Johny from my windows desktop as shown below
 ![]()

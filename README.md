@@ -56,3 +56,6 @@ Upload the locked PDF file to the Hash Calculator. I uploaded the pdf into the  
 value that starts with $p
 ![](https://github.com/dnspghana-NAT/WEEK-3-PROJECT-PASSWORD-CRACKING-/blob/dab896d1dbb4973693a5e6d3880ee99903e98544/pdf%20file%2012.PNG)
 ![](https://github.com/dnspghana-NAT/WEEK-3-PROJECT-PASSWORD-CRACKING-/blob/d2cb2a30f6be54535e6fad0f87753c7ff1b91715/nw%20tool%20hash%20value.PNG)
+**STEP4**. Copy the full hash value.
+I Copied the complete hash starting from $pdf$ and imported into Open the Networkwalks Password Cracker in the web browser: https://networkwalks.com/password-cracker/ and the result below was displayed:
+![]()

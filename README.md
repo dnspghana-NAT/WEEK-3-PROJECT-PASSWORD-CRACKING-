@@ -33,3 +33,6 @@ I downloaded Johny GUI from official website as depicted in the screenshot below
 ![](https://github.com/dnspghana-NAT/WEEK-3-PROJECT-PASSWORD-CRACKING-/blob/317b775afd1f59bc0a59b82c462eb6eac4aa2762/JOHNY%20ICON%20OPENED.PNG)
 **step2.3**. Click on setting and browse to select and specify the location of Johny.exe. I after the installation I opened Johny to configure the setting of the location of johny.exe file shown below:
 ![](https://github.com/dnspghana-NAT/WEEK-3-PROJECT-PASSWORD-CRACKING-/blob/81a951a7c2017d0a8b2d176b455d699b94e6f08d/johny%20setting.PNG)
+**step3**. Crack the password. I follow the following sub steps to crack the password of the encrypted pdf file
+**step3.1** I downloaded the encrypted pdf file into my computer and opened a hash website https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php to upload the pdf file to find the hash as depicted below:
+

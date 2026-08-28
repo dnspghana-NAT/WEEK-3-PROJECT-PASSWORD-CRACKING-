@@ -50,4 +50,8 @@ The hash value was then copy and save as text and imported into the Johny, the i
 # TASK 2
  ### Password cracking with NW tools
  **step1**. Download the encrypted PDF file (My Locked PDF1.pdf). I downloaded the encrypted pdf file and licked the link to networkwalks; https://networkwalks.com/project-task-lab-password-cracking-with-networkwalks-tools/ as show below:
-![]() 
+![](https://github.com/dnspghana-NAT/WEEK-3-PROJECT-PASSWORD-CRACKING-/blob/2b54a65f1e99a83d79bbcd8b6f0d0914df64a977/NW%20TOOLS.PNG) 
+**STEP3**
+Upload the locked PDF file to the Hash Calculator. I uploaded the pdf into the  tool to read the file and give you the hash 
+value that starts with $p
+![]()

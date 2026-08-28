@@ -4,10 +4,11 @@ Password Cracking with JTR and NW Tools
 The scope of this project focuses on two major blocks: 
 1. password cracking with JTR tools
 2. password cracking with NW tools
-## PROJECT SPECIFIC MAIN ACTIVITIES AND TASKS
+## PROJECT SPECIFIC  ACTIVITIES AND TASKS
 1. Crack the password of attached PDF file (My Locked PDF1.pdf) using JTR JOHN and JTR JOHNNY tools on your Windows PC.
 2. Crack the password of the attached PDF file (My Locked PDF1.pdf) using the Networkwalks Hash Calculator and Password Cracker tools on your windows laptop.
-### BRIEF BACKGROUND OF PASSWORD CRACKING WITH JTR TOOLS
+# PROJECT MODULE 1.
+## BRIEF BACKGROUND OF PASSWORD CRACKING WITH JTR TOOLS
 John the Ripper (JTR) is a popular password cracking tool used by security professionals to test how strong 
 passwords are. It started as a tool for Unix systems but now works on Windows, Linux, and Mac. It can 
 check many types of password hashes and also unlock password protected files like PDF, ZIP, and Office documents.
@@ -44,15 +45,30 @@ The hash value was then copy and save as text and imported into the Johny, the i
 
 **step4**. Open the pdf file with the cracked password. I opened the locked pdf file as shown below and entered the password
 ![](https://github.com/dnspghana-NAT/WEEK-3-PROJECT-PASSWORD-CRACKING-/blob/8307fcd7434c390cfb19004447174b1d870344ff/pdf%20locked%20file.PNG)
-
+The image below pop up after successfully loging in the with the cracked passwod
 ![](https://github.com/dnspghana-NAT/WEEK-3-PROJECT-PASSWORD-CRACKING-/blob/a2c19c7505d6b4eacbb9cf16bc514d9069082daa/flag%20captured.PNG)
 
+
+# PROJECT MODULE 2
+## PASSWORD CRACKING WITH NETWORKWALKS TOOLS
+### Brief Background
+Password cracking is the process of recovering a password from stored data or a protected file. Security 
+professionals use it to test how strong a password is and to show why weak passwords are risky. If a 
+password is short or common, it can be found quickly, which proves the need for strong passwords.
+Many files like PDF, ZIP, and Office documents can be locked with a password. When a file is locked, its 
+password is stored in the form of a hash. A hash is a scrambled value that represents the password. To 
+recover the password, we first take out this hash from the file, and then run it through a cracking tool that 
+tries different words until it finds a match.
+In this lab you will use two free online tools made by Networkwalks. First, you will use the Hash Calculator 
+to take the hash out of a locked PDF file. Then you will use the Password Cracker to find the real password 
+from that hash. Both tools run in your web browser, so you do not need to install anything.
+This lab helps you understand how password cracking works step by step and why strong passwords are
 # TASK 2
  ### Password cracking with NW tools
  **step1**. Download the encrypted PDF file (My Locked PDF1.pdf). I downloaded the encrypted pdf file and licked the link to networkwalks; https://networkwalks.com/project-task-lab-password-cracking-with-networkwalks-tools/ as show below:
 ![](https://github.com/dnspghana-NAT/WEEK-3-PROJECT-PASSWORD-CRACKING-/blob/2b54a65f1e99a83d79bbcd8b6f0d0914df64a977/NW%20TOOLS.PNG) 
 **STEP3**
-Upload the locked PDF file to the Hash Calculator. I uploaded the pdf into the  tool to read the file and give you the hash 
+Upload the locked PDF file to the Hash Calculator. I uploaded the pdf into the tool to read the file and give you the hash 
 value that starts with $p
 ![](https://github.com/dnspghana-NAT/WEEK-3-PROJECT-PASSWORD-CRACKING-/blob/dab896d1dbb4973693a5e6d3880ee99903e98544/pdf%20file%2012.PNG)
 ![](https://github.com/dnspghana-NAT/WEEK-3-PROJECT-PASSWORD-CRACKING-/blob/d2cb2a30f6be54535e6fad0f87753c7ff1b91715/nw%20tool%20hash%20value.PNG)
@@ -62,3 +78,7 @@ I Copied the complete hash starting from $pdf$ and imported into Open the Networ
 ![](https://github.com/dnspghana-NAT/WEEK-3-PROJECT-PASSWORD-CRACKING-/blob/ff772511307f91b1361b3a6a4ecd4023b7300370/NW%20TOOL%20PASSWORD%20CRACKED.PNG)
 ![](https://github.com/dnspghana-NAT/WEEK-3-PROJECT-PASSWORD-CRACKING-/blob/09fdb044c6f288d886aced8cdf6b4a20bdcb4f9e/PDF%20FILE%202.PNG)
 ![](https://github.com/dnspghana-NAT/WEEK-3-PROJECT-PASSWORD-CRACKING-/blob/b87c60dd510caa278faa24af45e01d87ce115c8b/pdf%20file%20opened%20with%20nw%20tools.PNG)
+The screenshot above shows a successful login after entering the cracked password (password1) 
+
+# LESSON LEARNED
+ I learned that Security professionals use password cracking tools to test how strong a password is and to show why weak passwords are risky. If a password is short or common, it can be found quickly, which proves the need for strong passwords. I learned that it also helps organization protect sensitive document and file from unauthorized access

@@ -55,3 +55,4 @@ The hash value was then copy and save as text and imported into the Johny, the i
 Upload the locked PDF file to the Hash Calculator. I uploaded the pdf into the  tool to read the file and give you the hash 
 value that starts with $p
 ![](https://github.com/dnspghana-NAT/WEEK-3-PROJECT-PASSWORD-CRACKING-/blob/dab896d1dbb4973693a5e6d3880ee99903e98544/pdf%20file%2012.PNG)
+![]()

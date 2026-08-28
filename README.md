@@ -32,3 +32,4 @@ I downloaded Johny GUI from official website as depicted in the screenshot below
 **stp2.2**. Open Johny. After the installation I opened Johny from my windows desktop as shown below
 ![](https://github.com/dnspghana-NAT/WEEK-3-PROJECT-PASSWORD-CRACKING-/blob/317b775afd1f59bc0a59b82c462eb6eac4aa2762/JOHNY%20ICON%20OPENED.PNG)
 **step2.3**. Click on setting and browse to select and specify the location of Johny.exe. I after the installation I opened Johny to configure the setting of the location of johny.exe file shown below:
+![]()
